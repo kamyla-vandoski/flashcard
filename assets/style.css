@@ -8,4 +8,10 @@ footer{
    position:fixed;
     bootom:0;
     width: 100%;
+    height: 2rem;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.5;
 }
