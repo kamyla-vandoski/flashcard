@@ -11,6 +11,7 @@ body{
     margin:1rem 1rem;
     background-color: azure;
     height: 20rem;
+    flex-grow:1;
 }
 
 
@@ -21,7 +22,7 @@ body{
 
 
 
-}
+
 footer{
     background-color: black;
     color:rgb(255, 255, 255);
