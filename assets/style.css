@@ -30,6 +30,7 @@ body {
     height: 100%;
     border-radius: 10px;
     overflow: hidden;
+    transform-style: preserve-3d;
 }
 
 .cartao__conteudo h3 {
