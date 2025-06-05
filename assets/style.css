@@ -43,6 +43,11 @@ border: 1px solid var(--text-color);
 
 
 
+
+.cartao__conteudo__pergunta{
+    color:var(--text-color)
+}
+
 footer{
     background-color: black;
     color:rgb(255, 255, 255);
