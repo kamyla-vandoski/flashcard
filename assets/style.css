@@ -26,11 +26,12 @@ body {
 .cartao__conteudo {
     background-color: var(--card-front-color);
     text-align: center;
-    background-color: azure; /* This will override the previous background color, consider removing one */
+ /*background-color: azure; */
     height: 100%;
     border-radius: 10px;
     overflow: hidden;
     transform-style: preserve-3d;
+
 }
 
 .cartao__conteudo h3 {
