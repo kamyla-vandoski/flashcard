@@ -66,6 +66,9 @@ transition:transform 300ms ease-in-out;
     backface-visibility:hidden ;
 }
 
+.cartao__conteudo__resposta{
+    transform:rotateY(180deg)
+}
 
 
 
