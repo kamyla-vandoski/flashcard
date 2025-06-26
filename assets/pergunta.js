@@ -1,16 +1,16 @@
-CriaCartao(
+criaCartao(
     'Geografia',
     'Qual a capital da França?',
     'Paris'
 )
 
-CriaCartao(
+criaCartao(
     'Ciencias',
     'O que é um ano bissexto?',
     'Ano com 366 dias'
 )
 
-CriaCartao(
+criaCartao(
     'Ciêncas',
     'O que é DNA?',
     'Molécula que armazena informações'
