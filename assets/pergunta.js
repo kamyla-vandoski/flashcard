@@ -11,7 +11,7 @@ CriaCartao(
 )
 
 CriaCartao(
-    categoria,
-    pergunta,
-    respota
+    'Ciêncas',
+    'O que é DNA?',
+    'Molécula que armazena informações'
 )
