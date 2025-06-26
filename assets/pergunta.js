@@ -1,0 +1,5 @@
+CriaCartao(
+    categoria,
+    pergunta,
+    respota
+)
