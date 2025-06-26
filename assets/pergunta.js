@@ -6,8 +6,8 @@ CriaCartao(
 
 CriaCartao(
     'Ciencias',
-    '',
-    respota
+    'O que é um ano bissexto?',
+    'Ano com 366 dias'
 )
 
 CriaCartao(
